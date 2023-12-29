@@ -7,7 +7,8 @@ import Tech from './components/Tech'
 
 function App() {
   return (
-    <div className="bg-gradient-to-b from-neutral-950 to-black px-5">
+    // <div className="bg-gradient-to-b from-neutral-950 to-black px-5">
+    <div className="bg-gradient-to-b from-zinc-950 to-black">
       <Navbar />
       <Banner />
       <Portfolio />

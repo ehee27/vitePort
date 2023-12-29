@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        Teko: ['Teko'],
+        Teko: ['Kanit'],
       },
     },
   },
